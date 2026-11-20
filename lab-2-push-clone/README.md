@@ -1,7 +1,7 @@
 # Lab 2 - Pushing and Cloning a Repository
 
-**Name:** Alok chaubey  
-**Roll Number:** BCS2025476
+**Name:** SEVENDRA PAL  
+**Roll Number:** BCS2025534
 
 ## Objective
 To push a local Git repository to GitHub and clone a remote repository.

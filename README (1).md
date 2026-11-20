@@ -2,8 +2,8 @@
 ### Department of Computer Science & Engineering
 **Course:** B.Tech CSE - Second Year  
 **Subject:** HTML and CSS Introduction Lab (BCS352)  
-**Student Name:** Alok chaubey  
-**Roll Number:** BCS2025476  
+**Student Name:** SEVENDRA PAL  
+**Roll Number:** BCS2025534
 
 ---
 # HTML and CSS Introduction Lab (BCS352)
@@ -12,9 +12,9 @@
 **Institution:** Invertis University, Bareilly  
 **Department:** Computer Science & Engineering  
 **Academic Year:** Second Year (B.Tech CSE)  
-**Student Name:** Alok chaubey  
-**University Roll Number:** BCS2025476  
-**Student Institutional Email:** chaubeyalok23@gmail.com  
+**Student Name:** SEVENDRA PAL   
+**University Roll Number:** BCS2025534   
+**Student Institutional Email:** seve99pal@gmail.com 
 
 ---
 
